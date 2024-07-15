@@ -1,2 +1,3 @@
 # get_next_line
-<img width="439" alt="image" src="https://github.com/user-attachments/assets/13e369a8-ea29-4313-956c-b5f2fb1c42f7">
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/801f8ed2-7889-4191-a804-0e3e0737257e">
+
